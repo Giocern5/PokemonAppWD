@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WorkdayP25</string>
+    <string name="about">About</string>
+    <string name="name">Name</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="types">Types</string>
+    <string name="id">ID</string>
+    <string name="errorMessage1">Oops, looks like something went wrong! Click here to refresh</string>
+    <string name="weightValue">%s kg</string>
+    <string name="heightValue">%s m</string>
+    <string name="sprites">Sprites</string>
+</resources>
