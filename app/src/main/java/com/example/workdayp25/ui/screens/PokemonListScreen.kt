@@ -107,7 +107,7 @@ fun SearchBar(viewModel: PokemonViewModel) {
             }
         },
             colors = ButtonDefaults.buttonColors(Color.Gray),
-            modifier = Modifier.height(45.dp)) {
+            modifier = Modifier.height(58.dp)) {
             Text( text = "Search", color = Color.White )
         }
     }
